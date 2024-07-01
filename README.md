@@ -6,6 +6,10 @@
 
 [GitHub](https://github.com/Bouncer77/Properties)
 
+# Видео инструкция
+
+[![SpringDataJpa](https://img.youtube.com/vi/q4Hwr60uPE0/0.jpg)](https://www.youtube.com/watch?v=q4Hwr60uPE0)
+
 # Источник
 
 [Properties with Spring and Spring Boot](https://www.baeldung.com/properties-with-spring)
