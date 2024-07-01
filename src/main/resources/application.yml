@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    driverClassName: org.postgresql.Driver
+    username: postgres
+    password: InnerJoin77
+    url: jdbc:postgresql://localhost:5432/
+  jpa:
+    hibernate:
+      ddl-auto: create
+name: test-YAML
+
+servers:
+  - www.abc.test.com
+  - www.xyz.test.com
+
+component:
+  service:
+    url: myurlservice
+    token: token
+    description: >
+      this should be another long
+      description
